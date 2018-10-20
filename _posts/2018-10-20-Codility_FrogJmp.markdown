@@ -17,5 +17,7 @@ D의 배수로 바로 Y까지 도달할 수 있는 케이스와 지나치는 케
 
 
 
-[GitHub Code](https://github.com/bestjoong/codility/blob/master/src/main/java/codility/lesson/lesson3/FrogJmp.java)
+[문제](https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/)
+
+[풀이 Code](https://github.com/bestjoong/codility/blob/master/src/main/java/codility/lesson/lesson3/FrogJmp.java)
 
