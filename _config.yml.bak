@@ -11,8 +11,8 @@ exclude:
 # Site settings
 title: Bestjoong
 subtitle: "A simple blog"
-email: blcentra@gmail.com
-name: Ben Centra
+email: bestjoong@gmail.com
+name: Hyunjoong Kim
 description: >
   A simple yet classy theme for your Jekyll website or blog.
 # Base URL of site (i.e. /blog). It should always start with a slash,
@@ -29,6 +29,8 @@ paginate: 5
 paginate_path: "/page:num/"
 inter_post_navigation: false
 highlightjs_theme: "monokai-sublime"
+
+permalink: /post/:year/:month/:title
 
 # Archive settings (see https://github.com/jekyll/jekyll-archives/)
 jekyll-archives:
