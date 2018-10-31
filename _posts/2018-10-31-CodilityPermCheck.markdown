@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[Codility][lesson4] PermCheck 문제풀이"
-date:   2018-10-20 14:26:30 +0900
+date:   2018-10-31 11:26:30 +0900
 author: Hyunjoong Kim
 categories: Algorithm
 tags: Codility

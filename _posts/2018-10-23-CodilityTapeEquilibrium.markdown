@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[Codility][lesson3] TapeEqulibrium 문제풀이"
-date:   2018-10-20 14:26:30
+date:   2018-10-23 16:26:30 +0900
 author: Hyunjoong Kim
 categories: Algorithm
 tags: Codility
