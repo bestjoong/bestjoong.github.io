@@ -50,11 +50,11 @@ counter[A[K]]을 1증가시킨다.A[K] = N + 1 인 경우, counter[] 의 모든�
 
 이때마다 전체값을 모두 변경하면 성능이 현저히 떨어진다. 
 
-
+<br/>
 
 그래서 아래와 같은 방법으로 문제를 해결하였다. 
 
-
+<br/>
 
 A[K] = N + 1 인 경우, 추가로 counter의 최대값을 저장만 한 후,
 
@@ -70,7 +70,7 @@ counter[A[K]]값이 더 크면, counter[A[K]]++ 수행한다.
 
 
 
-[문제](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/)
+[문제](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/)
 
-[풀이 Code](https://github.com/bestjoong/codility/blob/master/src/main/java/codility/lesson/lesson4/FrogRiverOne.java)
+[풀이 Code](https://github.com/bestjoong/codility/blob/master/src/main/java/codility/lesson/lesson4/MaxCounters.java)
 
