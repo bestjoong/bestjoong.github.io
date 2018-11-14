@@ -42,7 +42,7 @@ A[6] = 4
 
 
 
-[풀이]
+**[풀이]**
 
 N크기의 배열을 counter[]로 정의1 <= A[K] <= N 인 경우,  
 
@@ -66,9 +66,7 @@ counter[A[K]]값이 더 크면, counter[A[K]]++ 수행한다.
 
 마지막으로, max값으로 max값보다 작은 counter[]값들을 후처리해주면 된다.
 
-
-
-
+<br/>
 
 [문제](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/)
 

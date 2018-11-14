@@ -30,7 +30,7 @@ P = 3, difference = |6 − 7| = 1
 P = 4, difference = |10 − 3| = 7  
 ```
 
-
+<br/>
 
 **[풀이]**
 
@@ -40,7 +40,7 @@ P = 4, difference = |10 − 3| = 7
 
 3) 2)의 연산을 수행하면서, C[i] - B[i]를 계산하여 temp값을 세팅하고 이전의 minimum값과 비교하여 최소값을 계산하였다. 
 
-
+<br/>
 
 **[삽질..]**
 
@@ -52,7 +52,7 @@ sum값이 P=N-1일때의 차이값보다 적을 경우
 
 sum값이 minimum값으로 세팅되어 잘못된 값이 나왔었다.
 
-
+<br/>
 
 [문제](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/)
 

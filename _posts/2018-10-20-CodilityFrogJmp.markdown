@@ -15,7 +15,7 @@ D의 배수로 바로 Y까지 도달할 수 있는 케이스와 지나치는 케
 
 (Y-X)/D 가 0인 케이스와 0보다 큰 케이스로 나누어 접근하여 문제를 해결하였다. 
 
-
+<br/>
 
 [문제](https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/)
 
