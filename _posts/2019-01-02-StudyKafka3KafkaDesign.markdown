@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Study][Kafka] 카프카 디자인
+title:  "[Study][Kafka] 3장 카프카 디자인"
 date:   2018-01-02 09:20:10 +0900
 author: Hyunjoong Kim
 categories: Study
